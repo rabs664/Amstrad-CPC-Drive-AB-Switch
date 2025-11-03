@@ -21,7 +21,7 @@ The PCB then sits between the second floppy drive edge connector and the floppy 
 <img src="https://github.com/user-attachments/assets/6b773aa4-a92a-407d-a65e-02a400f9a7c2" width="400" height="400"/> 
 
 >[!IMPORTANT]
->However, there are some restrictions on its use which should be noted and are detailed in the [CPCWiki Guide on how to connect a 3.5" drive to a CPC 6128](https://www.cpcwiki.eu/index.php?). 
+>However, there are some restrictions on its use.
 >Primairly you cannot have anything inserted into Drive A when the switch is in the ON position but also the switch should only be moved when the CPC is OFF.
 
 
