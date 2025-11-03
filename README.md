@@ -22,7 +22,7 @@ The PCB then sits between the second floppy drive edge connector and the floppy 
 
 >[!IMPORTANT]
 >However, there are some restrictions on its use which should be noted and are detailed in the [CPCWiki Guide on how to connect a 3.5" drive to a CPC 6128](https://www.cpcwiki.eu/index.php?). 
->Primairly you cannot have anything inserted into Drive A when the switch is in the ON position but also the switch should only be moved to the ON position when the CPC is on and OFF when the CPC is powered off. The [CPCWiki Guide](https://www.cpcwiki.eu/index.php?) talks of a "drives-act-as-one error on next bootup" if the switch is left ON when powering the CPC on but I have never observed this.
+>Primairly you cannot have anything inserted into Drive A when the switch is in the ON position but also the switch should only be moved when the CPC is OFF.
 
 
 >[!CAUTION]
